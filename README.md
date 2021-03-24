@@ -1,2 +1,2 @@
 # bootcampHW
-bootcamp homework repository
+bootcamp homework repository for excel HW
