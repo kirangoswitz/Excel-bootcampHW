@@ -1,2 +1,2 @@
-# bootcampHW
-bootcamp homework repository
+# Excel Challenge bootcamp HW
+bootcamp homework repository for excel HW
